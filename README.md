@@ -7,3 +7,6 @@ recognition in terms of accuracy. In this project, we aim to implement a system 
 after recognizing each character which includes digits and mathematical symbols convert it to the corresponding latex code. In this regard,
 the performance of CNN with LeNet, will be evaluated in this project in order to classify symbols, such as digits, Latin letters, Greek
 letters, and mathematical operators. Then, each symbol will be transferred to the corresponding Latex letter.
+
+
+*** code to be uploaded***
