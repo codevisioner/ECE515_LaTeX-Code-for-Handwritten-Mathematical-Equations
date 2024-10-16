@@ -9,4 +9,4 @@ the performance of CNN with LeNet, will be evaluated in this project in order to
 letters, and mathematical operators. Then, each symbol will be transferred to the corresponding Latex letter.
 
 
-# code to be uploaded
+## code to be uploaded...
